@@ -1,2 +1,2 @@
-Citing_other_papers_is_easy__.tex
+Forside.tex
 Formål.tex
